@@ -1,2 +1,3 @@
 # PICN
 Here we provide the codes for physics-informed convolutional neural network in predicting temperatures of the surface of arch dams. Details can be found in "A physics informed convolution neural network for spatiotemporal temperature analysis of concrete dams". We will provide additional links after the article is officially accepted, thank you!
+PS：Due to confidentiality requirements, we are unable to publicly provide the required data. In the absence of measured data, it is not appropriate to run the code using fictitious arithmetic examples, which may not satisfy the physical mechanisms of the dam. Nevertheless, we believe that the provided code will help readers better understand our approach.
